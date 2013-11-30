@@ -38,13 +38,16 @@ h2 {
 nav{margin-left: 10px;}
 
 #link {
-  margin: 88px 4px 0 370px;
-  list-style: none;
-  float: right;
-  font-size: 22px;
-  float: left;
-  margin-right: 56px;  
-  color: #FAF3BC;
+ margin: 88px 4px 0 370px;
+list-style: none;
+float: right;
+font-size: 22px;
+float: left;
+margin-right: 56px;
+color: #FAF3BC;
+background-color: sienna;
+padding: 5px;
+border-radius: 8px;
 }
 
 #intro {
