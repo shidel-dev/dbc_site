@@ -1,0 +1,85 @@
+body {
+  font-family: 'Nunito', sans-serif;
+color: #000000;
+background: #688A5D;
+
+}
+
+a {
+  color: #4FB69F;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 1.750em;
+  letter-spacing: -1.5px;
+}
+
+h2 {
+  font-size: 1.500em;
+  color: #FAFFDB;
+}
+
+#logo{position:absolute;top: 31px;}
+
+.btn {
+  color: #FAF3BC;
+  background: #4FB69F url('img/texture.png') no-repeat right top;
+  padding: 15px 30px;
+  margin: 40px 0px;
+  border-radius: 25px;
+  text-transform: uppercase;
+}
+
+.btn:hover {
+  background-color: #4CC4A7;
+}
+
+nav{margin-left: 10px;}
+
+#link {
+  margin: 88px 4px 0 370px;
+  list-style: none;
+  float: right;
+  font-size: 22px;
+  float: left;
+  margin-right: 56px;  
+  color: #FAFFDB;
+}
+
+#intro {
+  margin: 84px 0 75px 0;
+}
+
+#hiking img {
+  border: 8px solid #FAF3BC;
+  margin: 0 0 20px 0;
+}
+
+#Kentuck_knob img {
+  border: 8px solid #FAF3BC;
+}
+
+#copyright {
+  border-top: 8px solid #FAF3BC;
+  padding: 10px 0px;
+  margin: 15px 0px;
+  text-align: center;
+}
+
+.grid_2 > img {height: 168px;
+margin-top: 43px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
